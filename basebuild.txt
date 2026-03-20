@@ -1,0 +1,83 @@
+base-sups for spawnable types 
+
+                <attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="FenceKit" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="WatchtowerKit" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Hatchet" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="HandSaw" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="MetalWire" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="BarbedWire" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Pickaxe" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Pliers" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="CombinationLock4" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="NailBox" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="PartyTent_Brown" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="MediumTent_Green" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="LargeTent" chance="1.00" />
+		</attachments>
+                <attachments chance="1.00">
+			<item name="CarTent" chance="1.00" />
+		</attachments>
